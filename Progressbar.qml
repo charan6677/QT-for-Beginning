@@ -24,7 +24,7 @@ Column {
             id: bar
             width: 250
             value: 0
-           indeterminate: true
+           //indeterminate: true
 
             Timer {
                 interval: 100
