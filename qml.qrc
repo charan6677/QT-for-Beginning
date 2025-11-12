@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>rectangle.qml</file>
+        <file>allproperties.qml</file>
+        <file>Progressbar.qml</file>
+    </qresource>
+</RCC>
